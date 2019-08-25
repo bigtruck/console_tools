@@ -120,8 +120,6 @@ int main(int argc, char const *argv[])
 	{
 		cout << "this image format not support !!!" << endl ;
 	}
-
-	
 	//cv::waitKey();
 
 	// cv::Mat img_bgr565 ;
